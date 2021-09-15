@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a [python project](https://github.com/Mazafard/tamin-sdk)
+- 📫 How to reach me: 
+  - mazafard@gmail.com
+  -  [@mazafard](https://twitter.com/Mazafard)
+
+
 <!--
 **Mazafard/Mazafard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
