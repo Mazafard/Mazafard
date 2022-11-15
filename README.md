@@ -56,18 +56,15 @@ These are our really cool sponsors!
 
 ## Gold Sponsors
 
-<!-- gold -->
-<!-- gold -->
+<!-- gold --><!-- gold -->
 
 ## Silver Sponsors
 
-<!-- silver -->
-<!-- silver -->
+<!-- silver --><!-- silver -->
 
 ## Bronze Sponsors
 
-<!-- bronze -->
-<!-- bronze -->
+<!-- bronze --><a href="https://github.com/safurajavan"><img src="https://github.com/safurajavan.png" width="60px" alt="" /></a><!-- bronze -->
 
 ## 🌎 Visitors
 [![Visits Badge](https://badges.pufler.dev/visits/puf17432/git-badges)](https://badges.pufler.dev)
