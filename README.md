@@ -44,8 +44,8 @@
 </p>
 
 ## 🌎 Find me
-- email Official Account: Mazafard at gmail ✍🏾
-- twitter Account: @Mazafard
+- Email Official Account: Mazafard at gmail ✍🏾
+- Twitter Account: @Mazafard
 - Instagram Account: @Mazafard
 
 
