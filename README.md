@@ -1,4 +1,4 @@
-### Hi I'm Mazafard 👋
+### Hi I'm Mazafard 👋m 
 <!--
 **Mazafard/Mazafard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,7 +35,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![jetbrains](https://img.shields.io/badge/-Jetbrains-black?style=flat-square&logo=jetbrains)
-<img alt="[VS Code" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
+<img alt="[VS Code" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" /><br />
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazafard&theme=cobalt2&show_icons=true)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mazafard&show_icons=true&theme=tokyonight)
 <p align='left'>
