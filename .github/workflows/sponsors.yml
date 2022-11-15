@@ -15,8 +15,8 @@ jobs:
         with:
           token: ${{ secrets.PAT }}
           file: 'README.md'
-          minimum: 5
-          maximum: 499
+          minimum: 500
+          maximum: 999
           marker: 'bronze'
 
 
@@ -25,8 +25,8 @@ jobs:
         with:
           token: ${{ secrets.PAT }}
           file: 'README.md'
-          minimum: 500
-          maximum: 999
+          minimum: 1000
+          maximum: 9999
           marker: 'silver'
 
       - name: Generate Sponsors 💖
@@ -34,7 +34,7 @@ jobs:
         with:
           token: ${{ secrets.PAT }}
           file: 'README.md'
-          minimum: 1000
+          minimum: 10000
           marker: 'gold'
 
       - name: Deploy to GitHub Pages 🚀
