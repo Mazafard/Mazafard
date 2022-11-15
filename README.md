@@ -54,7 +54,20 @@
 ## 🚀 Let's support each other
 These are our really cool sponsors!
 
-<!-- sponsors --><!-- sponsors -->
+## Gold Sponsors
+
+<!-- gold -->
+<!-- gold -->
+
+## Silver Sponsors
+
+<!-- silver -->
+<!-- silver -->
+
+## Bronze Sponsors
+
+<!-- bronze -->
+<!-- bronze -->
 
 ## 🌎 Visitors
 [![Visits Badge](https://badges.pufler.dev/visits/puf17432/git-badges)](https://badges.pufler.dev)
