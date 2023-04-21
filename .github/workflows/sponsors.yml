@@ -2,7 +2,7 @@ name: Generate Sponsors README
 on:
   workflow_dispatch:
   schedule:
-    - cron: 0 */12 */5 * 0-6
+#     - cron: 0 */12 */5 * 0-6
 jobs:
   deploy:
     runs-on: ubuntu-latest
