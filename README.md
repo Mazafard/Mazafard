@@ -67,4 +67,4 @@ These are our really cool sponsors!
 <!-- bronze --><a href="https://github.com/safurajavan"><img src="https://github.com/safurajavan.png" width="60px" alt="" /></a><!-- bronze -->
 
 ## 🌎 Visitors
-[![Visits Badge](https://badges.pufler.dev/visits/puf17432/git-badges)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/mazafard/mazafard)](https://badges.pufler.dev/mazafard/mazafard)
